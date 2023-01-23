@@ -92,7 +92,7 @@ $("#windSpeed").append(content);
 
 ```html
 <body>
-    <h1>Sample page</h2>
+    <h1>Sample page</h1>
     <div id="windSpeed">Wind speed: </div>
 </body>
 ```
